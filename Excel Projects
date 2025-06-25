@@ -1,0 +1,40 @@
+# 🍕 Pizza Sales Dashboard – Excel Project
+
+## 📌 Overview
+This project analyzes pizza sales data using Microsoft Excel to uncover insights on sales trends, popular products, and revenue. The goal is to help a fictional pizza business make better data-driven decisions.
+
+## 📁 Dataset
+- 48,621 rows and 12 columns
+- Includes order date, time, pizza size, ingredients, revenue, etc.
+
+## ⚙ Tools Used
+- Microsoft Excel
+- Power Query
+- Pivot Tables
+- Excel Functions
+- Excel Charts
+
+## 📊 Key KPIs
+- Total Revenue: $817,860
+- Total Orders: 48,620
+- Most Ordered Pizza: Classic Deluxe
+- Highest Revenue Pizza: Thai Chicken
+- Average Order Value: $16.82
+
+## 📈 Key Insights
+- Afternoon and Friday are peak sales times
+- Large size and Classic category are most popular
+- XX-Large has lowest sales — recommendation to discontinue
+
+## 📄 Files Included
+- `Pizza_Sales_Dashboard.xlsx`: The final Excel file with dashboard
+- `Pizza_Sales_Cleaned.xlsx`: Cleaned dataset
+- `README.md`: Project description (this file)
+
+## 💡 What I Learned
+- Data cleaning with Power Query
+- Using formulas to extract time-based insights
+- Dashboard storytelling using Excel visuals
+
+## ✨ Live Walkthrough
+➡ https://medium.com/@harneezyinka/pizza-sales-dashboard-visualizing-sales-insights-in-excel-8b664bcf6036
